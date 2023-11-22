@@ -1,0 +1,1085 @@
+Test (2A): initial election ...
+2023/11/23 01:20:30 VoteGranted2  server:2  args: 1 myterm 0
+2023/11/23 01:20:30 VoteGranted2  server:0  args: 1 myterm 0
+2023/11/23 01:20:30 server 1 win the vote rf.SendAppendEntries
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 server 0 heartbeat true
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 server 2 heartbeat true
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 server 0 heartbeat true
+2023/11/23 01:20:30 server 2 heartbeat true
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 server 0 heartbeat true
+2023/11/23 01:20:30 server 2 heartbeat true
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 server 2 heartbeat true
+2023/11/23 01:20:30 server 0 heartbeat true
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 server 1 is Leader
+2023/11/23 01:20:30 AE:server 1 send to 0
+2023/11/23 01:20:30 AE:server 1 send to 2
+2023/11/23 01:20:31 server 2 heartbeat true
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 server 0 heartbeat true
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 server 2 heartbeat true
+2023/11/23 01:20:31 server 0 heartbeat true
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 server 2 heartbeat true
+2023/11/23 01:20:31 server 0 heartbeat true
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 server 2 heartbeat true
+2023/11/23 01:20:31 server 0 heartbeat true
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:31 server 2 heartbeat true
+2023/11/23 01:20:31 server 1 is Leader
+2023/11/23 01:20:31 AE:server 1 send to 2
+2023/11/23 01:20:31 server 0 heartbeat true
+2023/11/23 01:20:31 AE:server 1 send to 0
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 server 2 heartbeat true
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 server 0 heartbeat true
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 server 2 heartbeat true
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 server 0 heartbeat true
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 server 2 heartbeat true
+2023/11/23 01:20:32 server 0 heartbeat true
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 server 2 heartbeat true
+2023/11/23 01:20:32 server 1 is Leader
+2023/11/23 01:20:32 AE:server 1 send to 0
+2023/11/23 01:20:32 AE:server 1 send to 2
+2023/11/23 01:20:32 server 0 heartbeat true
+  ... Passed --   3.0  3   58   14370    0
+Test (2A): election after network failure ...
+2023/11/23 01:20:33 server 2 heartbeat true
+2023/11/23 01:20:33 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:33 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:33 server 0 选举失败
+2023/11/23 01:20:33 VoteGranted2  server:0  args: 1 myterm 0
+2023/11/23 01:20:33 VoteGranted2  server:1  args: 1 myterm 0
+2023/11/23 01:20:33 server 2 win the vote rf.SendAppendEntries
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 AE:server 2 send to 1
+2023/11/23 01:20:33 AE:server 2 send to 0
+2023/11/23 01:20:33 server 1 heartbeat true
+2023/11/23 01:20:33 server 0 heartbeat true
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 AE:server 2 send to 0
+2023/11/23 01:20:33 AE:server 2 send to 1
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 AE:server 2 send to 0
+2023/11/23 01:20:33 AE:server 2 send to 1
+2023/11/23 01:20:33 server 1 heartbeat true
+2023/11/23 01:20:33 server 0 heartbeat true
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 VoteGranted2  server:0  args: 2 myterm 1
+2023/11/23 01:20:33 server 0 heartbeat true
+2023/11/23 01:20:33 server 1 win the vote rf.SendAppendEntries
+2023/11/23 01:20:33 server 1 is Leader
+2023/11/23 01:20:33 AE:server 1 send to 0
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 server 1 is Leader
+2023/11/23 01:20:33 AE:server 1 send to 0
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 server 1 is Leader
+2023/11/23 01:20:33 AE:server 1 send to 0
+2023/11/23 01:20:33 server 0 heartbeat true
+2023/11/23 01:20:33 server 2 is Leader
+2023/11/23 01:20:33 server 1 is Leader
+2023/11/23 01:20:33 AE:server 1 send to 0
+2023/11/23 01:20:34 server 2 is Leader
+2023/11/23 01:20:34 AEerr:server 2 is overtime
+2023/11/23 01:20:34 AEerr:server 2 is overtime
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 AE:server 1 send to 0
+2023/11/23 01:20:34 AE:server 1 send to 2
+2023/11/23 01:20:34 server 2 heartbeat true
+2023/11/23 01:20:34 server 0 heartbeat true
+2023/11/23 01:20:34 server 2 is not Leader
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 AE:server 1 send to 0
+2023/11/23 01:20:34 AE:server 1 send to 2
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 AE:server 1 send to 0
+2023/11/23 01:20:34 AE:server 1 send to 2
+2023/11/23 01:20:34 server 2 heartbeat true
+2023/11/23 01:20:34 server 0 heartbeat true
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 AE:server 1 send to 0
+2023/11/23 01:20:34 AE:server 1 send to 2
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 AE:server 1 send to 0
+2023/11/23 01:20:34 AE:server 1 send to 2
+2023/11/23 01:20:34 server 2 heartbeat true
+2023/11/23 01:20:34 server 0 heartbeat true
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 AERPCerr:server 2 send to 0
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 server 2 选举失败
+2023/11/23 01:20:34 server 0 选举失败
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:34 server 1 is Leader
+2023/11/23 01:20:35 server 2 选举失败
+2023/11/23 01:20:35 server 0 选举失败
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 server 0 选举失败
+2023/11/23 01:20:35 server 2 选举失败
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 AERPCerr:server 1 send to 0
+2023/11/23 01:20:35 server 2 选举失败
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 server 0 选举失败
+2023/11/23 01:20:35 AERPCerr:server 1 send to 2
+2023/11/23 01:20:35 AERPCerr:server 1 send to 0
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:35 AERPCerr:server 1 send to 0
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 AERPCerr:server 1 send to 2
+2023/11/23 01:20:35 server 0 选举失败
+2023/11/23 01:20:35 server 2 选举失败
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:35 AERPCerr:server 2 send to 1
+2023/11/23 01:20:35 server 1 is Leader
+2023/11/23 01:20:36 AERPCerr:server 1 send to 2
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 0 选举失败
+2023/11/23 01:20:36 server 2 选举失败
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 0 选举失败
+2023/11/23 01:20:36 server 2 选举失败
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:36 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:36 VoteGranted2  server:2  args: 10 myterm 9
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 2 heartbeat true
+2023/11/23 01:20:36 server 0 win the vote rf.SendAppendEntries
+2023/11/23 01:20:36 server 0 is Leader
+2023/11/23 01:20:36 AE:server 0 send to 2
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 0 is Leader
+2023/11/23 01:20:36 AE:server 0 send to 2
+2023/11/23 01:20:36 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:36 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 0 is Leader
+2023/11/23 01:20:36 AE:server 0 send to 2
+2023/11/23 01:20:36 server 2 heartbeat true
+2023/11/23 01:20:36 AERPCerr:server 1 send to 0
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:36 server 0 is Leader
+2023/11/23 01:20:36 AE:server 0 send to 2
+2023/11/23 01:20:36 server 1 is Leader
+2023/11/23 01:20:36 server 0 is Leader
+2023/11/23 01:20:36 AE:server 0 send to 2
+2023/11/23 01:20:37 server 2 heartbeat true
+2023/11/23 01:20:37 AERPCerr:server 1 send to 2
+2023/11/23 01:20:37 AERPCerr:server 1 send to 0
+2023/11/23 01:20:37 server 1 is Leader
+2023/11/23 01:20:37 AEerr:server 1 is overtime
+2023/11/23 01:20:37 server 0 is Leader
+2023/11/23 01:20:37 AEerr:server 1 is overtime
+2023/11/23 01:20:37 AE:server 0 send to 1
+2023/11/23 01:20:37 AE:server 0 send to 2
+2023/11/23 01:20:37 AERPCerr:server 1 send to 2
+2023/11/23 01:20:37 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:37 AERPCerr:server 1 send to 0
+2023/11/23 01:20:37 server 1 heartbeat true
+2023/11/23 01:20:37 AERPCerr:server 1 send to 0
+2023/11/23 01:20:37 server 1 is not Leader
+2023/11/23 01:20:37 server 0 is Leader
+2023/11/23 01:20:37 AE:server 0 send to 2
+2023/11/23 01:20:37 AE:server 0 send to 1
+2023/11/23 01:20:37 AERPCerr:server 0 send to 1
+2023/11/23 01:20:37 server 2 heartbeat true
+2023/11/23 01:20:37 AERPCerr:server 1 send to 0
+2023/11/23 01:20:37 server 0 is Leader
+2023/11/23 01:20:37 AE:server 0 send to 2
+2023/11/23 01:20:37 AE:server 0 send to 1
+2023/11/23 01:20:37 AERPCerr:server 1 send to 2
+2023/11/23 01:20:37 AERPCerr:server 1 send to 2
+2023/11/23 01:20:37 server 0 is Leader
+2023/11/23 01:20:37 AE:server 0 send to 1
+2023/11/23 01:20:37 AE:server 0 send to 2
+2023/11/23 01:20:37 server 1 heartbeat true
+2023/11/23 01:20:37 server 2 heartbeat true
+2023/11/23 01:20:37 AERPCerr:server 2 send to 0
+2023/11/23 01:20:37 server 0 is Leader
+2023/11/23 01:20:37 AE:server 0 send to 1
+2023/11/23 01:20:37 AE:server 0 send to 2
+  ... Passed --   4.5  3  142   26232    0
+Test (2A): multiple elections ...
+2023/11/23 01:20:37 AERPCerr:server 1 send to 2
+2023/11/23 01:20:37 server 1 heartbeat true
+2023/11/23 01:20:37 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:37 server 2 heartbeat true
+2023/11/23 01:20:37 VoteGranted2  server:6  args: 1 myterm 0
+2023/11/23 01:20:37 VoteGranted2  server:0  args: 1 myterm 0
+2023/11/23 01:20:37 VoteGranted2  server:2  args: 1 myterm 0
+2023/11/23 01:20:37 VoteGranted2  server:4  args: 1 myterm 0
+2023/11/23 01:20:37 VoteGranted2  server:3  args: 1 myterm 0
+2023/11/23 01:20:37 VoteGranted2  server:1  args: 1 myterm 0
+2023/11/23 01:20:37 server 5 win the vote rf.SendAppendEntries
+2023/11/23 01:20:37 server 5 is Leader
+2023/11/23 01:20:37 AE:server 5 send to 6
+2023/11/23 01:20:37 AE:server 5 send to 3
+2023/11/23 01:20:37 AE:server 5 send to 0
+2023/11/23 01:20:37 AE:server 5 send to 1
+2023/11/23 01:20:37 AE:server 5 send to 4
+2023/11/23 01:20:37 AE:server 5 send to 2
+2023/11/23 01:20:37 server 2 heartbeat true
+2023/11/23 01:20:37 server 4 heartbeat true
+2023/11/23 01:20:37 server 3 heartbeat true
+2023/11/23 01:20:37 server 0 heartbeat true
+2023/11/23 01:20:37 server 1 heartbeat true
+2023/11/23 01:20:37 server 6 heartbeat true
+2023/11/23 01:20:37 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:37 server 5 is Leader
+2023/11/23 01:20:37 AE:server 5 send to 0
+2023/11/23 01:20:37 AE:server 5 send to 2
+2023/11/23 01:20:37 AE:server 5 send to 1
+2023/11/23 01:20:37 AE:server 5 send to 6
+2023/11/23 01:20:37 AE:server 5 send to 3
+2023/11/23 01:20:37 AE:server 5 send to 4
+2023/11/23 01:20:37 AERPCerr:server 1 send to 0
+2023/11/23 01:20:37 AERPCerr:server 1 send to 0
+2023/11/23 01:20:37 AERPCerr:server 1 send to 2
+2023/11/23 01:20:37 server 5 is Leader
+2023/11/23 01:20:37 AE:server 5 send to 0
+2023/11/23 01:20:37 AE:server 5 send to 2
+2023/11/23 01:20:37 AE:server 5 send to 6
+2023/11/23 01:20:37 AE:server 5 send to 3
+2023/11/23 01:20:37 AE:server 5 send to 4
+2023/11/23 01:20:37 AE:server 5 send to 1
+2023/11/23 01:20:37 server 2 heartbeat true
+2023/11/23 01:20:37 server 6 heartbeat true
+2023/11/23 01:20:37 server 1 heartbeat true
+2023/11/23 01:20:37 server 3 heartbeat true
+2023/11/23 01:20:37 server 4 heartbeat true
+2023/11/23 01:20:37 server 0 heartbeat true
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 AE:server 5 send to 0
+2023/11/23 01:20:38 AE:server 5 send to 3
+2023/11/23 01:20:38 AE:server 5 send to 6
+2023/11/23 01:20:38 AERPCerr:server 1 send to 0
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 AE:server 5 send to 3
+2023/11/23 01:20:38 AE:server 5 send to 0
+2023/11/23 01:20:38 AE:server 5 send to 6
+2023/11/23 01:20:38 server 6 heartbeat true
+2023/11/23 01:20:38 AERPCerr:server 1 send to 2
+2023/11/23 01:20:38 server 2 选举失败
+2023/11/23 01:20:38 server 3 heartbeat true
+2023/11/23 01:20:38 server 1 选举失败
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 AE:server 5 send to 6
+2023/11/23 01:20:38 AE:server 5 send to 0
+2023/11/23 01:20:38 server 0 heartbeat true
+2023/11/23 01:20:38 AE:server 5 send to 3
+2023/11/23 01:20:38 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:38 server 4 选举失败
+2023/11/23 01:20:38 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:38 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:38 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:38 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 AE:server 5 send to 6
+2023/11/23 01:20:38 AE:server 5 send to 0
+2023/11/23 01:20:38 AE:server 5 send to 3
+2023/11/23 01:20:38 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:38 server 6 heartbeat true
+2023/11/23 01:20:38 server 3 heartbeat true
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 AE:server 5 send to 3
+2023/11/23 01:20:38 AE:server 5 send to 0
+2023/11/23 01:20:38 AE:server 5 send to 6
+2023/11/23 01:20:38 server 0 heartbeat true
+2023/11/23 01:20:38 server 2 选举失败
+2023/11/23 01:20:38 server 1 选举失败
+2023/11/23 01:20:38 server 4 选举失败
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 AERPCerr:server 5 send to 1
+2023/11/23 01:20:38 AERPCerr:server 1 send to 2
+2023/11/23 01:20:38 AERPCerr:server 1 send to 2
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 server 6 heartbeat true
+2023/11/23 01:20:38 server 3 heartbeat true
+2023/11/23 01:20:38 VoteGranted2  server:3  args: 2 myterm 1
+2023/11/23 01:20:38 VoteGranted2  server:1  args: 4 myterm 3
+2023/11/23 01:20:38 VoteGranted2  server:0  args: 4 myterm 2
+2023/11/23 01:20:38 VoteGranted2  server:3  args: 4 myterm 2
+2023/11/23 01:20:38 server 0 选举失败
+2023/11/23 01:20:38 server 1 heartbeat true
+2023/11/23 01:20:38 server 4 win the vote rf.SendAppendEntries
+2023/11/23 01:20:38 server 4 is Leader
+2023/11/23 01:20:38 AERPCerr:server 1 send to 2
+2023/11/23 01:20:38 AE:server 4 send to 1
+2023/11/23 01:20:38 AE:server 4 send to 0
+2023/11/23 01:20:38 AE:server 4 send to 3
+2023/11/23 01:20:38 RequestVoteRPC failed server 4 send to 6
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 server 2 选举失败
+2023/11/23 01:20:38 RequestVoteRPC failed server 1 send to 2
+2023/11/23 01:20:38 RequestVoteRPC failed server 4 send to 2
+2023/11/23 01:20:38 server 4 is Leader
+2023/11/23 01:20:38 AE:server 4 send to 1
+2023/11/23 01:20:38 AE:server 4 send to 3
+2023/11/23 01:20:38 AE:server 4 send to 0
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 AERPCerr:server 5 send to 3
+2023/11/23 01:20:38 server 6 选举失败
+2023/11/23 01:20:38 AERPCerr:server 1 send to 0
+2023/11/23 01:20:38 server 3 heartbeat true
+2023/11/23 01:20:38 server 0 heartbeat true
+2023/11/23 01:20:38 RequestVoteRPC failed server 1 send to 2
+2023/11/23 01:20:38 server 4 is Leader
+2023/11/23 01:20:38 AE:server 4 send to 1
+2023/11/23 01:20:38 AE:server 4 send to 0
+2023/11/23 01:20:38 AE:server 4 send to 3
+2023/11/23 01:20:38 server 5 is Leader
+2023/11/23 01:20:38 server 1 heartbeat true
+2023/11/23 01:20:38 server 2 选举失败
+2023/11/23 01:20:38 RequestVoteRPC failed server 6 send to 4
+2023/11/23 01:20:39 server 4 is Leader
+2023/11/23 01:20:39 AE:server 4 send to 0
+2023/11/23 01:20:39 AEerr:server 4 is overtime
+2023/11/23 01:20:39 AE:server 4 send to 1
+2023/11/23 01:20:39 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 AERPCerr:server 1 send to 0
+2023/11/23 01:20:39 AERPCerr:server 5 send to 0
+2023/11/23 01:20:39 AERPCerr:server 1 send to 2
+2023/11/23 01:20:39 AERPCerr:server 1 send to 0
+2023/11/23 01:20:39 AERPCerr:server 5 send to 4
+2023/11/23 01:20:39 server 3 heartbeat true
+2023/11/23 01:20:39 server 4 is not Leader
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:39 server 0 heartbeat true
+2023/11/23 01:20:39 server 4 heartbeat true
+2023/11/23 01:20:39 server 6 选举失败
+2023/11/23 01:20:39 AERPCerr:server 2 send to 1
+2023/11/23 01:20:39 AERPCerr:server 5 send to 3
+2023/11/23 01:20:39 server 1 heartbeat true
+2023/11/23 01:20:39 RequestVoteRPC failed server 1 send to 4
+2023/11/23 01:20:39 VoteGranted2  server:4  args: 6 myterm 5
+2023/11/23 01:20:39 VoteGranted2  server:1  args: 6 myterm 4
+2023/11/23 01:20:39 VoteGranted2  server:0  args: 6 myterm 4
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 server 2 win the vote rf.SendAppendEntries
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 AE:server 2 send to 4
+2023/11/23 01:20:39 AE:server 2 send to 1
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 6
+2023/11/23 01:20:39 AERPCerr:server 5 send to 1
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 AE:server 2 send to 4
+2023/11/23 01:20:39 AE:server 2 send to 1
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 server 4 heartbeat true
+2023/11/23 01:20:39 server 3 选举失败
+2023/11/23 01:20:39 server 0 heartbeat true
+2023/11/23 01:20:39 server 1 heartbeat true
+2023/11/23 01:20:39 server 6 选举失败
+2023/11/23 01:20:39 AERPCerr:server 5 send to 6
+2023/11/23 01:20:39 AERPCerr:server 4 send to 6
+2023/11/23 01:20:39 RequestVoteRPC failed server 4 send to 0
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 4
+2023/11/23 01:20:39 AERPCerr:server 0 send to 1
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:39 AE:server 2 send to 6
+2023/11/23 01:20:39 AE:server 2 send to 3
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 RequestVoteRPC failed server 4 send to 5
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 AE:server 2 send to 6
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 AE:server 2 send to 3
+2023/11/23 01:20:39 AERPCerr:server 1 send to 2
+2023/11/23 01:20:39 server 0 heartbeat true
+2023/11/23 01:20:39 AERPCerr:server 1 send to 2
+2023/11/23 01:20:39 AERPCerr:server 2 send to 0
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 4
+2023/11/23 01:20:39 server 3 heartbeat true
+2023/11/23 01:20:39 server 6 heartbeat true
+2023/11/23 01:20:39 server 4 选举失败
+2023/11/23 01:20:39 AERPCerr:server 5 send to 2
+2023/11/23 01:20:39 RequestVoteRPC failed server 4 send to 6
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 AE:server 2 send to 3
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 AE:server 2 send to 6
+2023/11/23 01:20:39 server 1 选举失败
+2023/11/23 01:20:39 AERPCerr:server 5 send to 4
+2023/11/23 01:20:39 AERPCerr:server 1 send to 0
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 4
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 AERPCerr:server 5 send to 1
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 AE:server 2 send to 6
+2023/11/23 01:20:39 AE:server 2 send to 3
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:39 server 3 heartbeat true
+2023/11/23 01:20:39 AERPCerr:server 4 send to 2
+2023/11/23 01:20:39 AERPCerr:server 5 send to 2
+2023/11/23 01:20:39 RequestVoteRPC failed server 3 send to 2
+2023/11/23 01:20:39 AERPCerr:server 2 send to 1
+2023/11/23 01:20:39 server 6 heartbeat true
+2023/11/23 01:20:39 AERPCerr:server 2 send to 1
+2023/11/23 01:20:39 AERPCerr:server 5 send to 0
+2023/11/23 01:20:39 server 0 heartbeat true
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 AE:server 2 send to 3
+2023/11/23 01:20:39 AE:server 2 send to 6
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 AERPCerr:server 5 send to 4
+2023/11/23 01:20:39 AERPCerr:server 2 send to 0
+2023/11/23 01:20:39 AERPCerr:server 5 send to 0
+2023/11/23 01:20:39 AERPCerr:server 2 send to 5
+2023/11/23 01:20:39 server 4 选举失败
+2023/11/23 01:20:39 AERPCerr:server 5 send to 6
+2023/11/23 01:20:39 AERPCerr:server 5 send to 4
+2023/11/23 01:20:39 server 1 选举失败
+2023/11/23 01:20:39 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:39 RequestVoteRPC failed server 4 send to 2
+2023/11/23 01:20:39 server 5 is Leader
+2023/11/23 01:20:39 RequestVoteRPC failed server 1 send to 0
+2023/11/23 01:20:39 AEerr:server 5 is overtime
+2023/11/23 01:20:39 AEerr:server 5 is overtime
+2023/11/23 01:20:39 AEerr:server 5 is overtime
+2023/11/23 01:20:39 AEerr:server 5 is overtime
+2023/11/23 01:20:39 server 2 is Leader
+2023/11/23 01:20:39 AERPCerr:server 5 send to 6
+2023/11/23 01:20:39 AE:server 2 send to 5
+2023/11/23 01:20:39 AE:server 2 send to 0
+2023/11/23 01:20:39 AEerr:server 2 is overtime
+2023/11/23 01:20:39 AE:server 2 send to 3
+2023/11/23 01:20:39 AERPCerr:server 5 send to 0
+2023/11/23 01:20:40 AERPCerr:server 1 send to 0
+2023/11/23 01:20:40 AERPCerr:server 1 send to 0
+2023/11/23 01:20:40 server 6 heartbeat true
+2023/11/23 01:20:40 server 5 is not Leader
+2023/11/23 01:20:40 server 0 heartbeat true
+2023/11/23 01:20:40 server 5 heartbeat true
+2023/11/23 01:20:40 server 3 heartbeat true
+2023/11/23 01:20:40 server 2 is not Leader
+2023/11/23 01:20:40 AERPCerr:server 5 send to 1
+2023/11/23 01:20:40 AERPCerr:server 5 send to 6
+2023/11/23 01:20:40 VoteGranted2  server:3  args: 9 myterm 6
+2023/11/23 01:20:40 VoteGranted2  server:2  args: 9 myterm 8
+2023/11/23 01:20:40 VoteGranted2  server:5  args: 9 myterm 6
+2023/11/23 01:20:40 VoteGranted2  server:0  args: 9 myterm 6
+2023/11/23 01:20:40 AERPCerr:server 2 send to 0
+2023/11/23 01:20:40 server 4 win the vote rf.SendAppendEntries
+2023/11/23 01:20:40 server 2 heartbeat true
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 AE:server 4 send to 5
+2023/11/23 01:20:40 AE:server 4 send to 3
+2023/11/23 01:20:40 AE:server 4 send to 0
+2023/11/23 01:20:40 AE:server 4 send to 2
+2023/11/23 01:20:40 RequestVoteRPC failed server 1 send to 2
+2023/11/23 01:20:40 AERPCerr:server 5 send to 3
+2023/11/23 01:20:40 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:40 RequestVoteRPC failed server 4 send to 6
+2023/11/23 01:20:40 server 1 选举失败
+2023/11/23 01:20:40 RequestVoteRPC failed server 4 send to 0
+2023/11/23 01:20:40 RequestVoteRPC failed server 1 send to 5
+2023/11/23 01:20:40 AERPCerr:server 1 send to 0
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 AE:server 4 send to 0
+2023/11/23 01:20:40 AE:server 4 send to 5
+2023/11/23 01:20:40 AE:server 4 send to 3
+2023/11/23 01:20:40 AE:server 4 send to 2
+2023/11/23 01:20:40 AERPCerr:server 1 send to 2
+2023/11/23 01:20:40 server 5 heartbeat true
+2023/11/23 01:20:40 server 3 heartbeat true
+2023/11/23 01:20:40 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:40 server 0 heartbeat true
+2023/11/23 01:20:40 AERPCerr:server 5 send to 4
+2023/11/23 01:20:40 RequestVoteRPC failed server 1 send to 6
+2023/11/23 01:20:40 AERPCerr:server 5 send to 2
+2023/11/23 01:20:40 server 6 选举失败
+2023/11/23 01:20:40 AERPCerr:server 1 send to 2
+2023/11/23 01:20:40 RequestVoteRPC failed server 2 send to 6
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 AE:server 4 send to 3
+2023/11/23 01:20:40 AE:server 4 send to 0
+2023/11/23 01:20:40 AE:server 4 send to 2
+2023/11/23 01:20:40 AE:server 4 send to 5
+2023/11/23 01:20:40 AERPCerr:server 5 send to 1
+2023/11/23 01:20:40 AERPCerr:server 1 send to 0
+2023/11/23 01:20:40 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:40 server 2 heartbeat true
+2023/11/23 01:20:40 AERPCerr:server 5 send to 3
+2023/11/23 01:20:40 AERPCerr:server 2 send to 5
+2023/11/23 01:20:40 AERPCerr:server 4 send to 2
+2023/11/23 01:20:40 AERPCerr:server 2 send to 1
+2023/11/23 01:20:40 server 1 选举失败
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 RequestVoteRPC failed server 6 send to 3
+2023/11/23 01:20:40 server 0 heartbeat true
+2023/11/23 01:20:40 server 5 heartbeat true
+2023/11/23 01:20:40 AERPCerr:server 1 send to 2
+2023/11/23 01:20:40 AERPCerr:server 5 send to 1
+2023/11/23 01:20:40 server 3 heartbeat true
+2023/11/23 01:20:40 AERPCerr:server 5 send to 4
+2023/11/23 01:20:40 RequestVoteRPC failed server 1 send to 5
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:40 server 6 选举失败
+2023/11/23 01:20:40 RequestVoteRPC failed server 1 send to 4
+2023/11/23 01:20:40 AERPCerr:server 2 send to 1
+2023/11/23 01:20:40 AERPCerr:server 5 send to 2
+2023/11/23 01:20:40 AERPCerr:server 1 send to 2
+2023/11/23 01:20:40 AERPCerr:server 5 send to 0
+2023/11/23 01:20:40 AERPCerr:server 1 send to 2
+2023/11/23 01:20:40 server 2 选举失败
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 VoteGranted2  server:0  args: 11 myterm 9
+2023/11/23 01:20:40 VoteGranted2  server:3  args: 11 myterm 9
+2023/11/23 01:20:40 VoteGranted2  server:5  args: 11 myterm 9
+2023/11/23 01:20:40 server 1 win the vote rf.SendAppendEntries
+2023/11/23 01:20:40 server 1 is Leader
+2023/11/23 01:20:40 AE:server 1 send to 5
+2023/11/23 01:20:40 AE:server 1 send to 0
+2023/11/23 01:20:40 AE:server 1 send to 3
+2023/11/23 01:20:40 server 5 heartbeat true
+2023/11/23 01:20:40 server 0 heartbeat true
+2023/11/23 01:20:40 server 3 heartbeat true
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 RequestVoteRPC failed server 1 send to 5
+2023/11/23 01:20:40 AERPCerr:server 4 send to 6
+2023/11/23 01:20:40 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:40 AERPCerr:server 2 send to 4
+2023/11/23 01:20:40 server 1 is Leader
+2023/11/23 01:20:40 AE:server 1 send to 5
+2023/11/23 01:20:40 AE:server 1 send to 3
+2023/11/23 01:20:40 AE:server 1 send to 0
+2023/11/23 01:20:40 server 6 选举失败
+2023/11/23 01:20:40 AERPCerr:server 5 send to 6
+2023/11/23 01:20:40 AERPCerr:server 5 send to 6
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 AERPCerr:server 5 send to 2
+2023/11/23 01:20:40 RequestVoteRPC failed server 1 send to 0
+2023/11/23 01:20:40 RequestVoteRPC failed server 3 send to 4
+2023/11/23 01:20:40 server 2 选举失败
+2023/11/23 01:20:40 server 1 is Leader
+2023/11/23 01:20:40 AE:server 1 send to 3
+2023/11/23 01:20:40 AE:server 1 send to 0
+2023/11/23 01:20:40 AE:server 1 send to 5
+2023/11/23 01:20:40 AERPCerr:server 5 send to 2
+2023/11/23 01:20:40 server 5 heartbeat true
+2023/11/23 01:20:40 server 0 heartbeat true
+2023/11/23 01:20:40 AERPCerr:server 1 send to 2
+2023/11/23 01:20:40 server 4 is Leader
+2023/11/23 01:20:40 AEerr:server 4 is overtime
+2023/11/23 01:20:40 AEerr:server 4 is overtime
+2023/11/23 01:20:40 AEerr:server 4 is overtime
+2023/11/23 01:20:40 server 3 heartbeat true
+2023/11/23 01:20:40 RequestVoteRPC failed server 6 send to 0
+2023/11/23 01:20:40 server 1 is Leader
+2023/11/23 01:20:40 AE:server 1 send to 4
+2023/11/23 01:20:41 AE:server 1 send to 2
+2023/11/23 01:20:41 AE:server 1 send to 5
+2023/11/23 01:20:41 RequestVoteRPC failed server 1 send to 0
+2023/11/23 01:20:41 AERPCerr:server 5 send to 4
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 2
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 2
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 3
+2023/11/23 01:20:41 server 4 is not Leader
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 5
+2023/11/23 01:20:41 AERPCerr:server 5 send to 1
+2023/11/23 01:20:41 RequestVoteRPC failed server 1 send to 0
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 3
+2023/11/23 01:20:41 AERPCerr:server 2 send to 5
+2023/11/23 01:20:41 server 6 选举失败
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 AE:server 1 send to 4
+2023/11/23 01:20:41 AE:server 1 send to 5
+2023/11/23 01:20:41 AE:server 1 send to 2
+2023/11/23 01:20:41 server 4 heartbeat true
+2023/11/23 01:20:41 AERPCerr:server 1 send to 2
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 3
+2023/11/23 01:20:41 server 2 heartbeat true
+2023/11/23 01:20:41 RequestVoteRPC failed server 1 send to 0
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 5
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 4
+2023/11/23 01:20:41 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 0
+2023/11/23 01:20:41 server 5 heartbeat true
+2023/11/23 01:20:41 AERPCerr:server 5 send to 1
+2023/11/23 01:20:41 server 0 选举失败
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 AE:server 1 send to 5
+2023/11/23 01:20:41 AE:server 1 send to 2
+2023/11/23 01:20:41 AE:server 1 send to 4
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 5
+2023/11/23 01:20:41 AERPCerr:server 1 send to 2
+2023/11/23 01:20:41 server 3 选举失败
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 3
+2023/11/23 01:20:41 AERPCerr:server 4 send to 1
+2023/11/23 01:20:41 AERPCerr:server 1 send to 2
+2023/11/23 01:20:41 AERPCerr:server 0 send to 1
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 AE:server 1 send to 4
+2023/11/23 01:20:41 AE:server 1 send to 5
+2023/11/23 01:20:41 AE:server 1 send to 2
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 6
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:41 server 2 heartbeat true
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 0
+2023/11/23 01:20:41 RequestVoteRPC failed server 1 send to 3
+2023/11/23 01:20:41 AERPCerr:server 5 send to 6
+2023/11/23 01:20:41 RequestVoteRPC failed server 1 send to 2
+2023/11/23 01:20:41 server 4 heartbeat true
+2023/11/23 01:20:41 server 6 选举失败
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 2
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 0
+2023/11/23 01:20:41 server 5 heartbeat true
+2023/11/23 01:20:41 AERPCerr:server 2 send to 4
+2023/11/23 01:20:41 server 0 选举失败
+2023/11/23 01:20:41 AERPCerr:server 5 send to 2
+2023/11/23 01:20:41 VoteGranted2  server:6  args: 13 myterm 11
+2023/11/23 01:20:41 VoteGranted2  server:5  args: 13 myterm 11
+2023/11/23 01:20:41 VoteGranted2  server:2  args: 13 myterm 11
+2023/11/23 01:20:41 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 RequestVoteRPC failed server 3 send to 4
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:41 AERPCerr:server 5 send to 1
+2023/11/23 01:20:41 server 3 win the vote rf.SendAppendEntries
+2023/11/23 01:20:41 server 3 is Leader
+2023/11/23 01:20:41 AE:server 3 send to 2
+2023/11/23 01:20:41 AE:server 3 send to 6
+2023/11/23 01:20:41 AE:server 3 send to 5
+2023/11/23 01:20:41 AERPCerr:server 4 send to 0
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:41 AERPCerr:server 5 send to 4
+2023/11/23 01:20:41 server 2 heartbeat true
+2023/11/23 01:20:41 RequestVoteRPC failed server 6 send to 1
+2023/11/23 01:20:41 server 4 选举失败
+2023/11/23 01:20:41 server 6 heartbeat true
+2023/11/23 01:20:41 AERPCerr:server 4 send to 6
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 server 3 is Leader
+2023/11/23 01:20:41 AE:server 3 send to 2
+2023/11/23 01:20:41 AE:server 3 send to 5
+2023/11/23 01:20:41 AE:server 3 send to 6
+2023/11/23 01:20:41 AERPCerr:server 3 send to 4
+2023/11/23 01:20:41 AERPCerr:server 4 send to 6
+2023/11/23 01:20:41 server 5 heartbeat true
+2023/11/23 01:20:41 AERPCerr:server 5 send to 2
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:41 AERPCerr:server 5 send to 0
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 2
+2023/11/23 01:20:41 AERPCerr:server 4 send to 2
+2023/11/23 01:20:41 AERPCerr:server 5 send to 2
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:41 RequestVoteRPC failed server 1 send to 4
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 server 0 选举失败
+2023/11/23 01:20:41 server 3 is Leader
+2023/11/23 01:20:41 AERPCerr:server 1 send to 2
+2023/11/23 01:20:41 AE:server 3 send to 6
+2023/11/23 01:20:41 AE:server 3 send to 5
+2023/11/23 01:20:41 AE:server 3 send to 2
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 3
+2023/11/23 01:20:41 AERPCerr:server 5 send to 2
+2023/11/23 01:20:41 AERPCerr:server 1 send to 0
+2023/11/23 01:20:41 server 2 heartbeat true
+2023/11/23 01:20:41 AERPCerr:server 0 send to 1
+2023/11/23 01:20:41 AERPCerr:server 5 send to 4
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 RequestVoteRPC failed server 0 send to 3
+2023/11/23 01:20:41 server 3 is Leader
+2023/11/23 01:20:41 RequestVoteRPC failed server 0 send to 5
+2023/11/23 01:20:41 AE:server 3 send to 5
+2023/11/23 01:20:41 AE:server 3 send to 2
+2023/11/23 01:20:41 AE:server 3 send to 6
+2023/11/23 01:20:41 server 4 选举失败
+2023/11/23 01:20:41 server 6 heartbeat true
+2023/11/23 01:20:41 RequestVoteRPC failed server 2 send to 6
+2023/11/23 01:20:41 server 5 heartbeat true
+2023/11/23 01:20:41 AERPCerr:server 4 send to 5
+2023/11/23 01:20:41 AERPCerr:server 5 send to 1
+2023/11/23 01:20:41 AERPCerr:server 1 send to 6
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 2
+2023/11/23 01:20:41 server 1 is Leader
+2023/11/23 01:20:41 AERPCerr:server 1 send to 0
+2023/11/23 01:20:41 server 3 is Leader
+2023/11/23 01:20:41 AE:server 3 send to 2
+2023/11/23 01:20:41 AE:server 3 send to 6
+2023/11/23 01:20:41 AE:server 3 send to 5
+2023/11/23 01:20:41 AERPCerr:server 4 send to 6
+2023/11/23 01:20:41 AERPCerr:server 1 send to 0
+2023/11/23 01:20:41 AERPCerr:server 4 send to 3
+2023/11/23 01:20:41 RequestVoteRPC failed server 4 send to 3
+2023/11/23 01:20:41 VoteGranted2  server:5  args: 15 myterm 13
+2023/11/23 01:20:41 VoteGranted2  server:6  args: 15 myterm 13
+2023/11/23 01:20:41 VoteGranted2  server:3  args: 15 myterm 13
+2023/11/23 01:20:41 RequestVoteRPC failed server 1 send to 4
+2023/11/23 01:20:41 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:41 AERPCerr:server 5 send to 6
+2023/11/23 01:20:41 server 0 win the vote rf.SendAppendEntries
+2023/11/23 01:20:41 server 0 is Leader
+2023/11/23 01:20:41 AE:server 0 send to 3
+2023/11/23 01:20:41 AE:server 0 send to 5
+2023/11/23 01:20:41 AE:server 0 send to 6
+2023/11/23 01:20:42 server 1 is Leader
+2023/11/23 01:20:42 server 2 heartbeat true
+2023/11/23 01:20:42 server 3 is not Leader
+2023/11/23 01:20:42 AERPCerr:server 1 send to 0
+2023/11/23 01:20:42 AERPCerr:server 0 send to 1
+2023/11/23 01:20:42 AERPCerr:server 1 send to 6
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:42 server 5 heartbeat true
+2023/11/23 01:20:42 RequestVoteRPC failed server 1 send to 5
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:42 server 6 heartbeat true
+2023/11/23 01:20:42 server 4 选举失败
+2023/11/23 01:20:42 AERPCerr:server 4 send to 0
+2023/11/23 01:20:42 AERPCerr:server 1 send to 3
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 server 1 is Leader
+2023/11/23 01:20:42 AERPCerr:server 4 send to 1
+2023/11/23 01:20:42 AERPCerr:server 5 send to 3
+2023/11/23 01:20:42 RequestVoteRPC failed server 6 send to 5
+2023/11/23 01:20:42 AERPCerr:server 3 send to 1
+2023/11/23 01:20:42 AERPCerr:server 1 send to 4
+2023/11/23 01:20:42 AERPCerr:server 3 send to 1
+2023/11/23 01:20:42 RequestVoteRPC failed server 1 send to 3
+2023/11/23 01:20:42 RequestVoteRPC failed server 1 send to 4
+2023/11/23 01:20:42 AERPCerr:server 1 send to 2
+2023/11/23 01:20:42 server 3 heartbeat true
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 RequestVoteRPC failed server 1 send to 5
+2023/11/23 01:20:42 server 1 is Leader
+2023/11/23 01:20:42 RequestVoteRPC failed server 4 send to 1
+2023/11/23 01:20:42 RequestVoteRPC failed server 0 send to 6
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 3
+2023/11/23 01:20:42 server 2 选举失败
+2023/11/23 01:20:42 server 5 heartbeat true
+2023/11/23 01:20:42 AERPCerr:server 5 send to 1
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 server 6 heartbeat true
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 RequestVoteRPC failed server 6 send to 4
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 AERPCerr:server 5 send to 0
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 4
+2023/11/23 01:20:42 RequestVoteRPC failed server 6 send to 5
+2023/11/23 01:20:42 server 1 is Leader
+2023/11/23 01:20:42 server 4 选举失败
+2023/11/23 01:20:42 RequestVoteRPC failed server 4 send to 5
+2023/11/23 01:20:42 AERPCerr:server 4 send to 3
+2023/11/23 01:20:42 AERPCerr:server 0 send to 4
+2023/11/23 01:20:42 AERPCerr:server 5 send to 4
+2023/11/23 01:20:42 server 3 heartbeat true
+2023/11/23 01:20:42 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AERPCerr:server 1 send to 4
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 AERPCerr:server 1 send to 5
+2023/11/23 01:20:42 server 1 is Leader
+2023/11/23 01:20:42 AERPCerr:server 1 send to 6
+2023/11/23 01:20:42 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:42 AERPCerr:server 4 send to 5
+2023/11/23 01:20:42 AERPCerr:server 5 send to 6
+2023/11/23 01:20:42 AERPCerr:server 1 send to 2
+2023/11/23 01:20:42 AERPCerr:server 5 send to 2
+2023/11/23 01:20:42 RequestVoteRPC failed server 4 send to 1
+2023/11/23 01:20:42 RequestVoteRPC failed server 6 send to 5
+2023/11/23 01:20:42 AERPCerr:server 1 send to 2
+2023/11/23 01:20:42 AERPCerr:server 5 send to 0
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AE:server 0 send to 2
+2023/11/23 01:20:42 AE:server 0 send to 1
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AE:server 0 send to 4
+2023/11/23 01:20:42 server 2 heartbeat true
+2023/11/23 01:20:42 AERPCerr:server 4 send to 3
+2023/11/23 01:20:42 server 1 is not Leader
+2023/11/23 01:20:42 server 6 heartbeat true
+2023/11/23 01:20:42 AERPCerr:server 4 send to 3
+2023/11/23 01:20:42 server 5 heartbeat true
+2023/11/23 01:20:42 server 4 heartbeat true
+2023/11/23 01:20:42 RequestVoteRPC failed server 3 send to 1
+2023/11/23 01:20:42 AERPCerr:server 0 send to 1
+2023/11/23 01:20:42 AERPCerr:server 1 send to 2
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 6
+2023/11/23 01:20:42 server 1 heartbeat true
+2023/11/23 01:20:42 RequestVoteRPC failed server 4 send to 1
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AERPCerr:server 4 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 AE:server 0 send to 2
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 1
+2023/11/23 01:20:42 AE:server 0 send to 4
+2023/11/23 01:20:42 AERPCerr:server 5 send to 4
+2023/11/23 01:20:42 AERPCerr:server 2 send to 4
+2023/11/23 01:20:42 RequestVoteRPC failed server 1 send to 3
+2023/11/23 01:20:42 AERPCerr:server 4 send to 5
+2023/11/23 01:20:42 AERPCerr:server 5 send to 6
+2023/11/23 01:20:42 server 3 heartbeat true
+2023/11/23 01:20:42 RequestVoteRPC failed server 3 send to 0
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 3
+2023/11/23 01:20:42 AERPCerr:server 1 send to 6
+2023/11/23 01:20:42 AERPCerr:server 2 send to 4
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AE:server 0 send to 4
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AE:server 0 send to 1
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 2
+2023/11/23 01:20:42 AERPCerr:server 2 send to 5
+2023/11/23 01:20:42 AERPCerr:server 5 send to 1
+2023/11/23 01:20:42 server 6 heartbeat true
+2023/11/23 01:20:42 server 2 heartbeat true
+2023/11/23 01:20:42 server 5 heartbeat true
+2023/11/23 01:20:42 AERPCerr:server 1 send to 4
+2023/11/23 01:20:42 AERPCerr:server 5 send to 4
+2023/11/23 01:20:42 AERPCerr:server 5 send to 4
+2023/11/23 01:20:42 server 4 heartbeat true
+2023/11/23 01:20:42 server 1 heartbeat true
+2023/11/23 01:20:42 AERPCerr:server 5 send to 3
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AE:server 0 send to 4
+2023/11/23 01:20:42 AE:server 0 send to 2
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 AE:server 0 send to 1
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AERPCerr:server 5 send to 4
+2023/11/23 01:20:42 RequestVoteRPC failed server 4 send to 0
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:42 RequestVoteRPC failed server 6 send to 0
+2023/11/23 01:20:42 server 3 heartbeat true
+2023/11/23 01:20:42 RequestVoteRPC failed server 0 send to 5
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 3
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:42 AERPCerr:server 5 send to 0
+2023/11/23 01:20:42 server 0 is Leader
+2023/11/23 01:20:42 AE:server 0 send to 6
+2023/11/23 01:20:42 AE:server 0 send to 3
+2023/11/23 01:20:42 AE:server 0 send to 4
+2023/11/23 01:20:42 AE:server 0 send to 1
+2023/11/23 01:20:42 AE:server 0 send to 5
+2023/11/23 01:20:42 AE:server 0 send to 2
+2023/11/23 01:20:42 AERPCerr:server 3 send to 0
+2023/11/23 01:20:42 RequestVoteRPC failed server 4 send to 5
+2023/11/23 01:20:42 server 6 heartbeat true
+2023/11/23 01:20:42 AERPCerr:server 1 send to 0
+2023/11/23 01:20:42 AERPCerr:server 0 send to 2
+2023/11/23 01:20:42 RequestVoteRPC failed server 4 send to 6
+2023/11/23 01:20:42 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:42 RequestVoteRPC failed server 0 send to 2
+2023/11/23 01:20:42 RequestVoteRPC failed server 6 send to 4
+2023/11/23 01:20:42 server 2 heartbeat true
+2023/11/23 01:20:42 AERPCerr:server 0 send to 2
+2023/11/23 01:20:42 AERPCerr:server 1 send to 6
+2023/11/23 01:20:42 RequestVoteRPC failed server 6 send to 2
+2023/11/23 01:20:42 server 5 heartbeat true
+  ... Passed --   5.5  7  714  123376    0
+PASS
+2023/11/23 01:20:43 AERPCerr:server 1 send to 0
+2023/11/23 01:20:43 server 4 heartbeat true
+2023/11/23 01:20:43 server 1 heartbeat true
+2023/11/23 01:20:43 AERPCerr:server 5 send to 2
+2023/11/23 01:20:43 AERPCerr:server 0 send to 1
+2023/11/23 01:20:43 AERPCerr:server 5 send to 6
+2023/11/23 01:20:43 AERPCerr:server 5 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:43 RequestVoteRPC failed server 4 send to 0
+2023/11/23 01:20:43 server 3 heartbeat true
+2023/11/23 01:20:43 AERPCerr:server 1 send to 0
+2023/11/23 01:20:43 RequestVoteRPC failed server 1 send to 5
+2023/11/23 01:20:43 AERPCerr:server 1 send to 0
+2023/11/23 01:20:43 AERPCerr:server 1 send to 2
+2023/11/23 01:20:43 AERPCerr:server 5 send to 6
+2023/11/23 01:20:43 RequestVoteRPC failed server 4 send to 1
+2023/11/23 01:20:43 AERPCerr:server 4 send to 1
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 4
+2023/11/23 01:20:43 AERPCerr:server 5 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 1
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 0
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 5
+2023/11/23 01:20:43 server 6 选举失败
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 1
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 0
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 5
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 4
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 6
+2023/11/23 01:20:43 server 2 选举失败
+2023/11/23 01:20:43 RequestVoteRPC failed server 1 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 5 send to 1
+2023/11/23 01:20:43 RequestVoteRPC failed server 5 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 5 send to 0
+2023/11/23 01:20:43 RequestVoteRPC failed server 5 send to 4
+2023/11/23 01:20:43 RequestVoteRPC failed server 5 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 5 send to 6
+2023/11/23 01:20:43 server 5 选举失败
+2023/11/23 01:20:43 AERPCerr:server 1 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 4
+2023/11/23 01:20:43 RequestVoteRPC failed server 3 send to 1
+2023/11/23 01:20:43 RequestVoteRPC failed server 4 send to 3
+2023/11/23 01:20:43 AERPCerr:server 5 send to 3
+2023/11/23 01:20:43 AERPCerr:server 1 send to 5
+2023/11/23 01:20:43 AERPCerr:server 4 send to 5
+2023/11/23 01:20:43 AERPCerr:server 5 send to 4
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 1
+2023/11/23 01:20:43 AERPCerr:server 1 send to 0
+2023/11/23 01:20:43 RequestVoteRPC failed server 4 send to 1
+2023/11/23 01:20:43 AERPCerr:server 1 send to 4
+2023/11/23 01:20:43 AERPCerr:server 0 send to 2
+2023/11/23 01:20:43 AERPCerr:server 1 send to 6
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 3
+2023/11/23 01:20:43 AERPCerr:server 5 send to 2
+2023/11/23 01:20:43 AERPCerr:server 5 send to 4
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 2
+2023/11/23 01:20:43 AERPCerr:server 1 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 4 send to 5
+2023/11/23 01:20:43 AERPCerr:server 5 send to 0
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 1
+2023/11/23 01:20:43 AERPCerr:server 1 send to 3
+2023/11/23 01:20:43 AERPCerr:server 4 send to 6
+2023/11/23 01:20:43 AERPCerr:server 5 send to 4
+2023/11/23 01:20:43 RequestVoteRPC failed server 0 send to 1
+2023/11/23 01:20:43 AERPCerr:server 1 send to 4
+2023/11/23 01:20:43 RequestVoteRPC failed server 1 send to 6
+2023/11/23 01:20:43 RequestVoteRPC failed server 4 send to 5
+2023/11/23 01:20:43 AERPCerr:server 1 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 1 send to 4
+2023/11/23 01:20:43 AERPCerr:server 4 send to 5
+2023/11/23 01:20:43 AERPCerr:server 5 send to 1
+2023/11/23 01:20:43 AERPCerr:server 1 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 2 send to 3
+2023/11/23 01:20:43 AERPCerr:server 0 send to 1
+2023/11/23 01:20:43 AERPCerr:server 1 send to 4
+2023/11/23 01:20:43 AERPCerr:server 5 send to 6
+2023/11/23 01:20:43 AERPCerr:server 4 send to 5
+2023/11/23 01:20:43 RequestVoteRPC failed server 1 send to 6
+2023/11/23 01:20:43 AERPCerr:server 3 send to 0
+2023/11/23 01:20:43 AERPCerr:server 2 send to 5
+2023/11/23 01:20:43 AERPCerr:server 4 send to 1
+2023/11/23 01:20:43 RequestVoteRPC failed server 0 send to 3
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 3
+2023/11/23 01:20:43 AERPCerr:server 1 send to 4
+2023/11/23 01:20:43 AERPCerr:server 2 send to 1
+2023/11/23 01:20:43 AERPCerr:server 5 send to 2
+2023/11/23 01:20:43 AERPCerr:server 5 send to 0
+2023/11/23 01:20:43 AERPCerr:server 4 send to 2
+2023/11/23 01:20:43 AERPCerr:server 1 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 4 send to 3
+2023/11/23 01:20:43 AERPCerr:server 5 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 1 send to 2
+2023/11/23 01:20:43 AERPCerr:server 5 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 6 send to 4
+2023/11/23 01:20:43 AERPCerr:server 4 send to 0
+2023/11/23 01:20:43 AERPCerr:server 1 send to 3
+2023/11/23 01:20:43 AERPCerr:server 4 send to 3
+2023/11/23 01:20:43 AERPCerr:server 1 send to 2
+2023/11/23 01:20:43 RequestVoteRPC failed server 3 send to 2
+ok  	6.824/raft	14.050s
